@@ -1,2 +1,2 @@
-# Portifolio
-Estudos e treinamentos
+# git
+ Estudos
